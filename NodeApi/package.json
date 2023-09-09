@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Trabalho de pós graduação da matéria de Plataforma Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissa-heloisa/TrabalhoNode.git"
+  },
+  "author": "Larissa Heloisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larissa-heloisa/TrabalhoNode/issues"
+  },
+  "homepage": "https://github.com/larissa-heloisa/TrabalhoNode#readme"
+}
